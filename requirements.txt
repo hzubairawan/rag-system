@@ -1,9 +1,3 @@
-###
-RAG system - upload a PDF and ask questions about it
-stack : openAI API + Langchain + fall + streamlit
-
-run with streamlit run app.py###
-
 streamlit
 Langchain
 Langchain-openai
